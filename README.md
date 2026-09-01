@@ -24,6 +24,7 @@ Every entry links to a working project and evidence of its build process.
 ## Data & civic
 
 - **[2025 National Demographic and Health Survey Dashboard](https://tordecilla.github.io/ph-ndhs-2025-web/)** — Interactive dashboard for Philippine health-survey indicators. Jaemark Tordecilla built it with coding agents after a week of vibe coding ([build notes](https://reutersinstitute.politics.ox.ac.uk/news/i-vibe-coded-complex-data-visualisation-and-analysis-dashboard-heres-what-i-learned)).
+- **[Budget Bot](https://chatgpt.com/g/g-JbtdqTBNp-budget-bot)** — Custom GPT that turns the Philippine national budget's 700,000-plus line items into plain-language, chart-ready answers for journalists and researchers. Jaemark Tordecilla built it iteratively with ChatGPT's Code Interpreter and open-sourced the datasets and instructions ([build notes](https://reutersinstitute.politics.ox.ac.uk/news/i-created-ai-chatbot-speak-my-countrys-budget-heres-how-i-did-it)).
 - **[SentroLink](https://www.linkedin.com/posts/viron-gil-estrada_nagacityhackathon-sentrolink-ai-activity-7417030199457927168-0EL6)** — Health-triage prototype for the MyNaga app that routes residents to the appropriate care. Its builder says the team reached a working prototype in 48 hours through vibe coding ([build notes](https://www.vibecoders.ph/blog/death-of-tutorial-hell)).
 
 ## Web & community
